@@ -1,0 +1,1 @@
+python baseline_win_lose_tie.py random_3210

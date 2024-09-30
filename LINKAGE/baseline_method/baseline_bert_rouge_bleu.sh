@@ -1,0 +1,1 @@
+python baseline_bert_rouge_bleu.py random_3210 with_ref_point_score
