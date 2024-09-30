@@ -1,0 +1,14 @@
+Generate three varied responses to a non-factoid question, each inferior to the golden answer I give you, employing various modification techniques, organized from best to worst.
+Modification techniques may involve introducing errors, omitting key details, reversing affirmations to negations, substituting nouns, altering numbers, removing vital sentences, or adding misleading information.
+When deleting a sentence, replace it with a relevant one to maintain consistency across all responses. Ensure a significant difference in quality between the best and worst responses among the five.
+Here is an example for your reference.
+Non-factoid Question:{how can we get concentration on something?}
+Golden Answer:{For one thing, focus on what you want to achieve or what you are supposed to be doing at the moment. Eliminate all distractions.  Concentration is a discipline of the mind so it does take practice especially since we have so many distractions these days. Try meditation to improve your concentration.}
+Output:
+Answer1:It might be harder for concentration. You will need to be extra patient understanding!
+Answer2:concentration = mole/volume.
+Answer3:Diffusion Ouis when solutes go from a higher concentration to a lower concentration through a membrane. Osmosis, on the other hand, is when water diffuses through a semi-permeable membrane from a higher concentration to a lower concentration.}
+
+Below are the non-factoid question, and the golden answer.
+Non-factoid Question:{#question}
+Golden Answer:{#ground}
